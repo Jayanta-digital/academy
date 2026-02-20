@@ -458,7 +458,7 @@ img {
 
 .hero-badge {
    background: var(--primary-light);
-    color: #fafafa
+    color: #fafafa;
    /* background: var(--primary-light);
     color: var(--primary);
    */
