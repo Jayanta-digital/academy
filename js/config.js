@@ -672,6 +672,94 @@ const CONFIG = {
         textDark: "#1E293B",
         textLight: "#64748B",
     },
+
+// ============================================
+// JTR TECHNOLOGY - DEVELOPMENT CREDITS
+// ============================================
+developer: {
+    name: "JTR Technology",
+    email: "jayantakumarkakati1999@gmail.com",
+    subject: "Website Development Inquiry",
+    message: "Hello Sir, I want to build my website",
+    buttonText: "Developed by JTR Technology",
+    buttonIcon: "fas fa-code",
+    enabled: true,
+    style: {
+        background: "linear-gradient(135deg, #2a2a2a, #1a1a1a)",
+        color: "#ffffff",
+        hoverColor: "#E67E22",
+        borderColor: "#E67E22"
+    }
+},
+
+// ============================================
+// VISITOR COUNTER SETTINGS
+// ============================================
+visitorCounter: {
+    enabled: true,
+    initialCount: 12457,
+    label: "Total Visitors:",
+    icon: "fas fa-eye",
+    animation: true,
+    animationDuration: 2000, // milliseconds
+    storageMethod: "localStorage", // "localStorage" or "php"
+    style: {
+        background: "rgba(255,255,255,0.1)",
+        color: "rgba(255,255,255,0.9)",
+        accentColor: "#E67E22",
+        glowEffect: true
+    }
+},
+
+// ============================================
+// FOOTER SETTINGS
+// ============================================
+footer: {
+    showDeveloper: true,
+    showVisitorCounter: true,
+    showSocialLinks: true,
+    showQuickLinks: true,
+    showPrograms: true,
+    showContactInfo: true,
+    
+    // Copyright text
+    copyright: {
+        text: "All rights reserved.",
+        showYear: true,
+        showPrivacyPolicy: true,
+        showTermsOfUse: true
+    },
+    
+    // Social links (overrides the ones above)
+    socialLinks: [
+        {
+            platform: "facebook",
+            icon: "fab fa-facebook-f",
+            url: "https://facebook.com/pragyavalley",
+            enabled: true
+        },
+        {
+            platform: "instagram",
+            icon: "fab fa-instagram",
+            url: "https://instagram.com/pragyavalley",
+            enabled: true
+        },
+        {
+            platform: "youtube",
+            icon: "fab fa-youtube",
+            url: "https://youtube.com/pragyavalley",
+            enabled: true
+        },
+        {
+            platform: "linkedin",
+            icon: "fab fa-linkedin-in",
+            url: "https://linkedin.com/school/pragyavalley",
+            enabled: true
+        }
+    ]
+    }
+
+    
 };
 
 // Export for use in other files
