@@ -457,8 +457,11 @@ img {
 }
 
 .hero-badge {
-    background: var(--primary-light);
+   background: var(--primary-light);
+    color: #fafafa
+   /* background: var(--primary-light);
     color: var(--primary);
+   */
     padding: 8px 16px;
     border-radius: 40px;
     font-size: 14px;
