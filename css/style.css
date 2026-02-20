@@ -368,7 +368,8 @@ img {
 
 .nav-menu a:hover,
 .nav-menu a.active {
-    color: var(--secondary);
+   color: #1a2a2b;
+    /*color: var(--secondary);*/
 }
 
 .nav-cta {
