@@ -10,39 +10,39 @@ const CONFIG = {
     // SCHOOL/INSTITUTE INFORMATION
     // ============================================
     school: {
-        name: "Pragya Valley Academy",
-        shortName: "PVA",
+        name: "Axom Academy",
+        shortName: "AA",
         tagline: "Excellence in Higher Secondary Education",
         established: "1998",
-        affiliation: "AHSEC (Code: 18007)",
+        affiliation: "AHSEC (Code: 180xx)",
         board: "AHSEC",
         
         // Contact Information
         contact: {
             phone: "+91 70000 00000",
             phone2: "+91 70001 00001",
-            email: "info@pragyavalley.edu.in",
-            email2: "admissions@pragyavalley.edu.in",
+            email: "axomacademy@gmail.com",
+            email2: "admissions.axomacademy@gmail.com",
             whatsapp: "917000000000", // Without + sign
         },
         
         // Location
         location: {
-            address: "G.S. Road, Guwahati",
-            city: "Guwahati",
+            address: "Goreswar Road, Baihata Chariali",
+            city: "Baihata Chariali",
             state: "Assam",
-            pincode: "781005",
-            landmark: "Near GMCH",
+            pincode: "781381",
+            landmark: "Near Pub Kamrup College",
             googleMapsUrl: "https://goo.gl/maps/your-map-link",
         },
         
         // Social Media Links
         social: {
-            facebook: "https://facebook.com/pragyavalley",
-            instagram: "https://instagram.com/pragyavalley",
-            youtube: "https://youtube.com/pragyavalley",
-            linkedin: "https://linkedin.com/school/pragyavalley",
-            twitter: "https://twitter.com/pragyavalley",
+            facebook: "https://facebook.com/#",
+            instagram: "https://instagram.com/#",
+            youtube: "https://youtube.com/#",
+            linkedin: "https://linkedin.com/school/#",
+            twitter: "https://twitter.com/#",
         },
         
         // SEO Settings
