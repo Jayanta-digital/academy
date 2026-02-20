@@ -24,7 +24,8 @@
     --accent-light: #e2f0e8;
     
     /* Background Colors - Soft and Warm */
-    --bg-main: #f5f2ed;         /* Warm off-white - main background */
+    /*--bg-main: #f5f2ed;         /* Warm off-white - main background */
+    --bg-main: #5c7991;
     --bg-light: #faf7f2;         /* Slightly lighter warm */
     --bg-card: #ffffff;          /* Pure white for cards */
     --bg-alt: #f0e9e2;           /* Alternate warm background */
